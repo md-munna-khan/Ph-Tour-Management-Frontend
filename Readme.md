@@ -43,4 +43,15 @@
 
 ## 35-4 [optional] Backend Setup and Configuration
 - specific Brunch Clone ![alt text](image-4.png)
-- when you set up new Project must be add env file and run project     
+- when you set up new Project must be add env file and run project     \
+
+## 35-5 Introduction to JavaScript Package Managers: npm, Yarn, pnpm, and Bun
+
+- 1 by default save npm = slow and not safe (package Manager)
+- 2 yarn create by facebook = faster and safer
+yarn 2 version = 1 classic 2 v2+ (package Manager)
+- 3 pnpm symlink (package Manager) 
+- ✅ 4 Bun package Manager, task Runner ,Ts Supporter, we use it
+#### Vite | Frontend Tooling
+- We use Vite tooling
+![alt text](image-5.png)
