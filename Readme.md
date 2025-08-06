@@ -28,3 +28,15 @@
 - single codebase
 - single database
 - single deployment
+
+## 35-3 Selecting the Right Tech Stack for the Project
+
+#### frontend Structure
+- 1 Auth =✅ social login (Google) | Customs | ✅Email/Password
+ Session based |✅ Token based
+- 2 State => Local | (Remote ->Data Fetching)
+- 3 View => Row css => Control your But need Huge Time | Material Ui => not Your Control | Sahdcn
+![alt text](image-3.png)
+✅ we use React 
+- State Management 1 zustand 2 Redux
+- Data fetching 1 = RTK Query 2 = TanStack
