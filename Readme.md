@@ -40,3 +40,7 @@
 ✅ we use React 
 - State Management 1 zustand 2 Redux
 - Data fetching 1 = RTK Query 2 = TanStack
+
+## 35-4 [optional] Backend Setup and Configuration
+- specific Brunch Clone ![alt text](image-4.png)
+- when you set up new Project must be add env file and run project     
